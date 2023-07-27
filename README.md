@@ -5,7 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![GitHub followers](https://img.shields.io/github/followers/matheus-asilva.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/matheus-asilva?tab=followers)
 
-I'm a Machine Learning Engineer at [Boa Vista](https://www.linkedin.com/company/boavista/mycompany/). My main interests are developing machine and deep learning applications to solve real world problems (such as medicine, educational, finance and retail) and also develop scalable machine learning platforms for DS team. In my free time I spend time with my family 😄
+I'm a Senior Machine Learning Engineer at [Itaú Unibanco](https://www.itau.com.br). My main interests are developing machine learning operations platforms to solve real world problems. In my free time I spend time with my family 😄
 
 
 <details>
